@@ -1,0 +1,49 @@
+{
+	"name": "Fear and Greed Index",
+	"data": [
+		{
+			"value": "69",
+			"value_classification": "Greed",
+			"timestamp": "1789430400",
+			"time_until_update": "48468"
+		},
+		{
+			"value": "57",
+			"value_classification": "Greed",
+			"timestamp": "1789344000"
+		},
+		{
+			"value": "61",
+			"value_classification": "Greed",
+			"timestamp": "1789257600"
+		},
+		{
+			"value": "63",
+			"value_classification": "Greed",
+			"timestamp": "1789171200"
+		},
+		{
+			"value": "56",
+			"value_classification": "Greed",
+			"timestamp": "1789084800"
+		},
+		{
+			"value": "69",
+			"value_classification": "Greed",
+			"timestamp": "1788998400"
+		},
+		{
+			"value": "66",
+			"value_classification": "Greed",
+			"timestamp": "1788912000"
+		},
+		{
+			"value": "69",
+			"value_classification": "Greed",
+			"timestamp": "1788825600"
+		}
+	],
+	"metadata": {
+		"error": null
+	}
+}
