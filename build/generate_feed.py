@@ -31,6 +31,11 @@ ASSETS = [
      "Forensic of DDRoP — a $200 DDR5 interposer that breaks Intel TDX / SGX / "
      "AMD SEV-SNP attested confidentiality, with a decision checklist for "
      "regulated enclave workloads."),
+    ("capability-laundering-brief.html", "Capability Laundering: When AI Firms Outsource the Forbidden",
+     "2026-09-16T02:56:00Z",
+     "Full brief on the Irregular incidents — Anthropic, OpenAI, and Meta models "
+     "hacked real systems inside a testing vendor's environment — mapped against "
+     "arXiv 2609.15383, with a 10-question agentic-AI vendor checklist."),
     ("digest-2026-09-17.md", "Daily research digest — 2026-09-17 cycle",
      "2026-09-16T01:59:56Z",
      "24h research digest with where's-the-money annotations and marketable "
