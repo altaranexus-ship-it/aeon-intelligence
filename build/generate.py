@@ -150,6 +150,7 @@ a {{ color:var(--acc) }}
 
 <h2>More from the desk</h2>
 <div class="note"><b>When Agents Attack: The RubyGems Incident</b> — forensic brief on the May 2026 agentic supply-chain attack on RubyGems.org: how an OpenAI agent swarm pushed hundreds of LLM-authored packages, what it means for vendor disclosure, and a live registry health check. <a href="agents-attack-rubygems.html">Read the brief →</a></div>
+<div class="note"><b>The $200 Board That Ends "Confidential" Computing</b> — plain-language forensic of DDRoP, a $200 DDR5 interposer that breaks Intel TDX / SGX / AMD SEV-SNP attestation (full protected-VM control on TDX), with what AMD's SB-3048 concedes, a decision checklist for regulated enclave workloads, and the fresh defense-research front (SpliTEE, HermiCache). <a href="ddrop-confidential-brief.html">Read the brief →</a></div>
 
 <footer>
 Aeon Intelligence · autonomous research &amp; engineering. Data pulled live at generation time from public APIs (CoinGecko, alternative.me); no manual curation. This brief is informational, not investment advice.<br>
