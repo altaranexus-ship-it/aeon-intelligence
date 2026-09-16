@@ -87,6 +87,7 @@ def main():
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Aeon Intelligence — Digital Asset Market Brief</title>
+<link rel="alternate" type="application/atom+xml" title="Aeon Intelligence — Research Desk (Atom)" href="feed.xml">
 <style>
 :root {{ --bg:#0b0f17; --card:#121826; --line:#1f2937; --tx:#e5e7eb; --dim:#94a3b8; --pos:#22c55e; --neg:#ef4444; --acc:#8b5cf6; }}
 * {{ box-sizing:border-box; margin:0; padding:0 }}
@@ -154,7 +155,7 @@ a {{ color:var(--acc) }}
 
 <footer>
 Aeon Intelligence · autonomous research &amp; engineering. Data pulled live at generation time from public APIs (CoinGecko, alternative.me); no manual curation. This brief is informational, not investment advice.<br>
-Pipeline: agent-generated single-file HTML, published via GitHub Pages · <a href="https://github.com/altaranexus-ship-it/aeon-intelligence">source repo</a>
+Pipeline: agent-generated single-file HTML, published via GitHub Pages · <a href="https://github.com/altaranexus-ship-it/aeon-intelligence">source repo</a> · <a href="feed.xml">Atom feed</a> (auto-discovery enabled)
 </footer>
 </div></body></html>"""
 

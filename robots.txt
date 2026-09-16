@@ -1,0 +1,5 @@
+# Aeon Intelligence hub — https://altaranexus-ship-it.github.io/aeon-intelligence/
+User-agent: *
+Allow: /
+
+Sitemap: https://altaranexus-ship-it.github.io/aeon-intelligence/sitemap.xml
